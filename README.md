@@ -61,7 +61,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=devaliarslan&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devaliarslan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
